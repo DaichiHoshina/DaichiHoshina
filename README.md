@@ -14,7 +14,6 @@ https://github.com/orgs/obsidian-engine/repositories
 <br>
 <br>
 <br>
-![My Commit graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DaichiHoshina&theme=dracula&count_private=true)
 <br>
 <br>
 <br>
