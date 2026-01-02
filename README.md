@@ -18,6 +18,3 @@ https://github.com/orgs/obsidian-engine/repositories
 <br>
 <br>
 <br>
-<a href="https://github.com/DaichiHoshina/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=DaichiHoshina&count_private=true&show_icons=true&theme=blue-green" />
-</a>
