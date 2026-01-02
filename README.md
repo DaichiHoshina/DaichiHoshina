@@ -1,19 +1,25 @@
-### 個人開発用 organization
+## Organization
 
-https://github.com/orgs/obsidian-engine/repositories
+Personal development workspace for experiments, prototypes, and architectural exploration.
 
-### その他
+→ https://github.com/orgs/obsidian-engine/repositories
 
-[![Zenn Posts](https://badgen.org/img/zenn/daichi0713/articles?style=flat)](https://zenn.dev/daichi0713)
-[![Zenn Followers](https://badgen.org/img/zenn/daichi0713/followers?style=flat)](https://zenn.dev/daichi0713)
-[![Zenn Likes](https://badgen.org/img/zenn/daichi0713/likes?style=flat)](https://zenn.dev/daichi0713)
-<br>
-<br>
-<br>
-![My Language Summary](https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&theme=dracula&count_private=true)
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+---
+
+## Writing
+
+Thoughts on software design, Go, architecture, and implementation details.
+
+[Zenn](https://zenn.dev/daichi0713)  
+![Articles](https://badgen.org/img/zenn/daichi0713/articles?style=flat)
+![Followers](https://badgen.org/img/zenn/daichi0713/followers?style=flat)
+![Likes](https://badgen.org/img/zenn/daichi0713/likes?style=flat)
+
+---
+
+## Languages
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&theme=dracula&count_private=true"
+  alt="Language usage"
+/>
