@@ -1,42 +1,20 @@
-<div align="center">
-
 # DaichiHoshina
 
 Software engineer focused on simplicity, clarity, and long-term maintainability.
 
-[![GitHub followers](https://img.shields.io/github/followers/DaichiHoshina?style=social)](https://github.com/DaichiHoshina)
-[![Zenn](https://zenn.badge.nikaera.com/s/daichi0713/likes?style=flat)](https://zenn.dev/daichi0713)
+[![GitHub](https://img.shields.io/badge/GitHub-DaichiHoshina-181717?style=flat&logo=github)](https://github.com/DaichiHoshina)
+[![Zenn](https://img.shields.io/badge/Zenn-daichi0713-3EA8FF?style=flat&logo=zenn&logoColor=white)](https://zenn.dev/daichi0713)
 
 ---
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=DaichiHoshina&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
-
-<img src="https://streak-stats.demolab.com/?user=DaichiHoshina&theme=default&hide_border=true" alt="GitHub Streak" />
-
----
-
-## 🏆 GitHub Trophies
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=DaichiHoshina&theme=flat&no-frame=true&row=1&column=7)
-
----
-
-## 💼 Focus Areas
+## 💼 Focus
 
 - **Go** / Backend architecture
 - **Domain-driven design**
 - **Clean architecture** and maintainable systems
 
----
-
 ## 🔗 Links
 
 - **Organization**: [obsidian-engine](https://github.com/orgs/obsidian-engine/repositories)
-- **Blog**: [Zenn](https://zenn.dev/daichi0713)
+- **Writing**: [Zenn](https://zenn.dev/daichi0713)
 - **Repositories**: [GitHub](https://github.com/DaichiHoshina?tab=repositories)
-
-</div>
