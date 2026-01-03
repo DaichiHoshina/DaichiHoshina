@@ -4,17 +4,17 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Architect;Go+%2F+DDD+Enthusiast;Claude+Code+Power+User;Clean+Code+Advocate" alt="Typing SVG" />
 
-<br>
+<br><br>
 
 ### Software engineer focused on simplicity, clarity, and long-term maintainability.
 
-<br>
+<br><br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaichiHoshina-181717?style=for-the-badge&logo=github)](https://github.com/DaichiHoshina)
+&nbsp;&nbsp;
 [![Zenn](https://img.shields.io/badge/Zenn-daichi0713-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/daichi0713)
 
-<br>
-<br>
+<br><br><br>
 
 ## 🛠️ Tech Stack
 
@@ -34,27 +34,15 @@
 &nbsp;&nbsp;
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
-<br>
-<br>
+<br><br><br>
 
 ## 💼 Focus Areas
 
 <br>
 
-### 🔧 Backend Engineering
-**Go** • **API Design** (REST/GraphQL/gRPC) • **Microservices** • Scalable systems
+**Go** • **TypeScript** • **Docker** • **Kubernetes** • **Clean Architecture** • **DDD** • **Claude Code**
 
-### 🏛️ Software Architecture
-**Clean Architecture** • **Domain-Driven Design** • Design patterns • Maintainability
-
-### ☁️ Infrastructure & DevOps
-**Docker** • **Kubernetes** • **Terraform** • CI/CD with GitHub Actions
-
-### 🤖 AI-Powered Development
-**Claude Code** CLI • **AI-assisted** workflows • **Prompt Engineering**
-
-<br>
-<br>
+<br><br><br>
 
 ## 📊 GitHub Activity
 
@@ -62,8 +50,7 @@
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaichiHoshina&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
-<br>
-<br>
+<br><br><br>
 
 ## 🔗 Connect
 
@@ -72,16 +59,13 @@
 <a href="https://github.com/orgs/obsidian-engine/repositories">
   <img src="https://img.shields.io/badge/Organization-obsidian--engine-181717?style=for-the-badge&logo=github" alt="Organization" />
 </a>
+&nbsp;&nbsp;
 <a href="https://zenn.dev/daichi0713">
   <img src="https://img.shields.io/badge/Writing-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
 </a>
+&nbsp;&nbsp;
 <a href="https://github.com/DaichiHoshina?tab=repositories">
   <img src="https://img.shields.io/badge/Repositories-GitHub-181717?style=for-the-badge&logo=github" alt="Repositories" />
 </a>
-
-<br>
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=DaichiHoshina&style=for-the-badge&color=blue" alt="Profile Views" />
 
 </div>
