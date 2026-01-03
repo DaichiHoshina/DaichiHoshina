@@ -2,7 +2,7 @@
 
 # 👋 DaichiHoshina
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Software+Engineer;Backend+Architect;Go+%2F+DDD+Enthusiast;Clean+Code+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Architect;Go+%2F+DDD+Enthusiast;Claude+Code+Power+User;Clean+Code+Advocate" alt="Typing SVG" />
 
 ### Software engineer focused on simplicity, clarity, and long-term maintainability.
 
@@ -28,6 +28,11 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
+### AI & Development Tools
+![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
@@ -39,7 +44,7 @@
 
 <table>
 <tr>
-<td width="33%">
+<td width="25%">
 
 ### 🔧 Backend
 - **Go** programming
@@ -47,7 +52,7 @@
 - **Microservices** architecture
 
 </td>
-<td width="33%">
+<td width="25%">
 
 ### 🏛️ Architecture
 - **Clean Architecture**
@@ -55,12 +60,20 @@
 - **Maintainable** systems
 
 </td>
-<td width="33%">
+<td width="25%">
 
 ### ☁️ Infrastructure
 - **Docker** / Containerization
 - **Kubernetes** orchestration
 - **IaC** (Terraform)
+
+</td>
+<td width="25%">
+
+### 🤖 AI-Powered Dev
+- **Claude Code** CLI
+- **AI-assisted** coding
+- **Prompt Engineering**
 
 </td>
 </tr>
