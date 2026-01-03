@@ -11,11 +11,11 @@ Software engineer focused on simplicity, clarity, and long-term maintainability.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaichiHoshina&show_icons=true&theme=default&hide_border=true&count_private=true)
+<img src="https://github-readme-stats.vercel.app/api?username=DaichiHoshina&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&theme=default&hide_border=true&langs_count=8)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaichiHoshina&theme=default&hide_border=true)
+<img src="https://streak-stats.demolab.com/?user=DaichiHoshina&theme=default&hide_border=true" alt="GitHub Streak" />
 
 ---
 
