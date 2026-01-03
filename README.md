@@ -4,16 +4,21 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Architect;Go+%2F+DDD+Enthusiast;Claude+Code+Power+User;Clean+Code+Advocate" alt="Typing SVG" />
 
+<br>
+
 ### Software engineer focused on simplicity, clarity, and long-term maintainability.
+
+<br>
 
 [![GitHub](https://img.shields.io/badge/GitHub-DaichiHoshina-181717?style=for-the-badge&logo=github)](https://github.com/DaichiHoshina)
 [![Zenn](https://img.shields.io/badge/Zenn-daichi0713-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/daichi0713)
 
----
+<br>
+<br>
 
 ## 🛠️ Tech Stack
 
-### Primary Technologies
+<br>
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -22,6 +27,8 @@
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+<br>
 
 <details>
 <summary><b>Show all technologies</b></summary>
@@ -48,13 +55,16 @@
 
 </details>
 
----
+<br>
+<br>
 
 ## 💼 Focus Areas
 
+<br>
+
 <table>
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px;">
 
 ### 🔧 Backend Engineering
 - **Go** programming & ecosystem
@@ -63,7 +73,7 @@
 - Scalable & maintainable systems
 
 </td>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px;">
 
 ### 🏛️ Software Architecture
 - **Clean Architecture** principles
@@ -74,7 +84,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px;">
 
 ### ☁️ Infrastructure & DevOps
 - **Docker** containerization
@@ -83,7 +93,7 @@
 - CI/CD with GitHub Actions
 
 </td>
-<td width="50%" valign="top" style="padding: 16px;">
+<td width="50%" valign="top" style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px;">
 
 ### 🤖 AI-Powered Development
 - **Claude Code** CLI expert
@@ -95,15 +105,21 @@
 </tr>
 </table>
 
----
+<br>
+<br>
 
 ## 📊 GitHub Activity
 
+<br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaichiHoshina&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
----
+<br>
+<br>
 
 ## 🔗 Connect
+
+<br>
 
 <a href="https://github.com/orgs/obsidian-engine/repositories">
   <img src="https://img.shields.io/badge/Organization-obsidian--engine-181717?style=for-the-badge&logo=github" alt="Organization" />
@@ -115,7 +131,8 @@
   <img src="https://img.shields.io/badge/Repositories-GitHub-181717?style=for-the-badge&logo=github" alt="Repositories" />
 </a>
 
----
+<br>
+<br>
 
 <img src="https://komarev.com/ghpvc/?username=DaichiHoshina&style=for-the-badge&color=blue" alt="Profile Views" />
 
