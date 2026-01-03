@@ -44,36 +44,42 @@
 
 <table>
 <tr>
-<td width="25%">
+<td width="50%">
 
-### 🔧 Backend
-- **Go** programming
+### 🔧 Backend Engineering
+- **Go** programming & ecosystem
 - **API Design** (REST/GraphQL/gRPC)
 - **Microservices** architecture
+- Scalable & maintainable systems
 
 </td>
-<td width="25%">
+<td width="50%">
 
-### 🏛️ Architecture
-- **Clean Architecture**
-- **Domain-Driven Design**
-- **Maintainable** systems
+### 🏛️ Software Architecture
+- **Clean Architecture** principles
+- **Domain-Driven Design** (DDD)
+- Design patterns & best practices
+- Long-term maintainability focus
 
 </td>
-<td width="25%">
+</tr>
+<tr>
+<td width="50%">
 
-### ☁️ Infrastructure
-- **Docker** / Containerization
+### ☁️ Infrastructure & DevOps
+- **Docker** containerization
 - **Kubernetes** orchestration
-- **IaC** (Terraform)
+- **Terraform** (Infrastructure as Code)
+- CI/CD with GitHub Actions
 
 </td>
-<td width="25%">
+<td width="50%">
 
-### 🤖 AI-Powered Dev
-- **Claude Code** CLI
-- **AI-assisted** coding
-- **Prompt Engineering**
+### 🤖 AI-Powered Development
+- **Claude Code** CLI expert
+- **AI-assisted** coding workflows
+- **Prompt Engineering** for developers
+- Leveraging AI for productivity
 
 </td>
 </tr>
