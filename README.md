@@ -29,33 +29,6 @@
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 
 <br>
-
-<details>
-<summary><b>Show all technologies</b></summary>
-
-<br>
-
-**Languages & Frameworks**
-- Go, TypeScript, JavaScript
-- React, Next.js
-
-**Backend & Infrastructure**
-- Docker, Kubernetes
-- PostgreSQL, Redis
-- Terraform
-
-**AI & Development Tools**
-- Claude Code CLI
-- GitHub Copilot
-- ChatGPT
-
-**DevOps & Platforms**
-- Git, GitHub Actions
-- CI/CD pipelines
-
-</details>
-
-<br>
 <br>
 
 ## 💼 Focus Areas
