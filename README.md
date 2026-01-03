@@ -13,30 +13,40 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
+### Primary Technologies
+
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### Backend & Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-### Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-
-### AI & Development Tools
 ![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+<details>
+<summary><b>Show all technologies</b></summary>
+
+<br>
+
+**Languages & Frameworks**
+- Go, TypeScript, JavaScript
+- React, Next.js
+
+**Backend & Infrastructure**
+- Docker, Kubernetes
+- PostgreSQL, Redis
+- Terraform
+
+**AI & Development Tools**
+- Claude Code CLI
+- GitHub Copilot
+- ChatGPT
+
+**DevOps & Platforms**
+- Git, GitHub Actions
+- CI/CD pipelines
+
+</details>
 
 ---
 
@@ -44,7 +54,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" style="padding: 16px;">
 
 ### 🔧 Backend Engineering
 - **Go** programming & ecosystem
@@ -53,7 +63,7 @@
 - Scalable & maintainable systems
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" style="padding: 16px;">
 
 ### 🏛️ Software Architecture
 - **Clean Architecture** principles
@@ -64,7 +74,7 @@
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top" style="padding: 16px;">
 
 ### ☁️ Infrastructure & DevOps
 - **Docker** containerization
@@ -73,7 +83,7 @@
 - CI/CD with GitHub Actions
 
 </td>
-<td width="50%">
+<td width="50%" valign="top" style="padding: 16px;">
 
 ### 🤖 AI-Powered Development
 - **Claude Code** CLI expert
