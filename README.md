@@ -37,26 +37,34 @@
 
 ## 💼 Focus Areas
 
-```mermaid
-mindmap
-  root((DaichiHoshina))
-    Backend
-      Go
-      API Design
-      Microservices
-    Architecture
-      Clean Architecture
-      DDD
-      Maintainability
-    Infrastructure
-      Docker
-      Kubernetes
-      IaC
-```
+<table>
+<tr>
+<td width="33%">
 
-- 🔹 **Go** / Backend architecture
-- 🔹 **Domain-driven design**
-- 🔹 **Clean architecture** and maintainable systems
+### 🔧 Backend
+- **Go** programming
+- **API Design** (REST/GraphQL/gRPC)
+- **Microservices** architecture
+
+</td>
+<td width="33%">
+
+### 🏛️ Architecture
+- **Clean Architecture**
+- **Domain-Driven Design**
+- **Maintainable** systems
+
+</td>
+<td width="33%">
+
+### ☁️ Infrastructure
+- **Docker** / Containerization
+- **Kubernetes** orchestration
+- **IaC** (Terraform)
+
+</td>
+</tr>
+</table>
 
 ---
 
