@@ -1,49 +1,42 @@
+<div align="center">
+
 # DaichiHoshina
 
 Software engineer focused on simplicity, clarity, and long-term maintainability.
 
----
-
-## Organization
-
-Personal development workspace for experiments, prototypes, and architectural exploration.
-
-→ https://github.com/orgs/obsidian-engine/repositories
+[![GitHub followers](https://img.shields.io/github/followers/DaichiHoshina?style=social)](https://github.com/DaichiHoshina)
+[![Zenn](https://zenn.badge.nikaera.com/s/daichi0713/likes?style=flat)](https://zenn.dev/daichi0713)
 
 ---
 
-## Writing
+## 📊 GitHub Stats
 
-Notes on software design, Go, architecture, and implementation details.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DaichiHoshina&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-→ https://zenn.dev/daichi0713
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&theme=default&hide_border=true&langs_count=8)
 
-![Articles](https://badgen.org/img/zenn/daichi0713/articles?style=flat)
-![Followers](https://badgen.org/img/zenn/daichi0713/followers?style=flat)
-![Likes](https://badgen.org/img/zenn/daichi0713/likes?style=flat)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DaichiHoshina&theme=default&hide_border=true)
 
 ---
 
-## Focus
+## 🏆 GitHub Trophies
 
-- Go / Backend architecture
-- Domain-driven design
-- Clean architecture and maintainable systems
+![Trophy](https://github-profile-trophy.vercel.app/?username=DaichiHoshina&theme=flat&no-frame=true&row=1&column=7)
 
 ---
 
-## Activity
+## 💼 Focus Areas
 
-→ https://github.com/DaichiHoshina?tab=repositories
-
----
-
-## Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&cache_seconds=86400)
+- **Go** / Backend architecture
+- **Domain-driven design**
+- **Clean architecture** and maintainable systems
 
 ---
 
-## Contact
+## 🔗 Links
 
-→ https://github.com/DaichiHoshina
+- **Organization**: [obsidian-engine](https://github.com/orgs/obsidian-engine/repositories)
+- **Blog**: [Zenn](https://zenn.dev/daichi0713)
+- **Repositories**: [GitHub](https://github.com/DaichiHoshina?tab=repositories)
+
+</div>
