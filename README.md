@@ -62,48 +62,17 @@
 
 <br>
 
-<table>
-<tr>
-<td width="50%" valign="top" style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px;">
-
 ### 🔧 Backend Engineering
-- **Go** programming & ecosystem
-- **API Design** (REST/GraphQL/gRPC)
-- **Microservices** architecture
-- Scalable & maintainable systems
-
-</td>
-<td width="50%" valign="top" style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px;">
+**Go** • **API Design** (REST/GraphQL/gRPC) • **Microservices** • Scalable systems
 
 ### 🏛️ Software Architecture
-- **Clean Architecture** principles
-- **Domain-Driven Design** (DDD)
-- Design patterns & best practices
-- Long-term maintainability focus
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top" style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px;">
+**Clean Architecture** • **Domain-Driven Design** • Design patterns • Maintainability
 
 ### ☁️ Infrastructure & DevOps
-- **Docker** containerization
-- **Kubernetes** orchestration
-- **Terraform** (Infrastructure as Code)
-- CI/CD with GitHub Actions
-
-</td>
-<td width="50%" valign="top" style="padding: 24px; border: 1px solid #e1e4e8; border-radius: 6px;">
+**Docker** • **Kubernetes** • **Terraform** • CI/CD with GitHub Actions
 
 ### 🤖 AI-Powered Development
-- **Claude Code** CLI expert
-- **AI-assisted** coding workflows
-- **Prompt Engineering** for developers
-- Leveraging AI for productivity
-
-</td>
-</tr>
-</table>
+**Claude Code** CLI • **AI-assisted** workflows • **Prompt Engineering**
 
 <br>
 <br>
