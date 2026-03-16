@@ -36,7 +36,7 @@
 
 <br><br><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Focus Areas" width="28" /> Focus Areas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Focus Areas" width="28" /> Focus Areas
 
 <br>
 
