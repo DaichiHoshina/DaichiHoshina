@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 DaichiHoshina
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Wave" width="35" /> DaichiHoshina
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Architect;Go+%2F+DDD+Enthusiast;Claude+Code+Power+User;Clean+Code+Advocate" alt="Typing SVG" />
 
@@ -16,7 +16,7 @@
 
 <br><br><br>
 
-## 🛠️ Tech Stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tech Stack" width="28" /> Tech Stack
 
 <br>
 
@@ -36,7 +36,7 @@
 
 <br><br><br>
 
-## 💼 Focus Areas
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Direct%20Hit.png" alt="Focus Areas" width="28" /> Focus Areas
 
 <br>
 
@@ -44,7 +44,7 @@
 
 <br><br><br>
 
-## 📊 GitHub Activity
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="GitHub Activity" width="28" /> GitHub Activity
 
 <br>
 
@@ -52,7 +52,7 @@
 
 <br><br><br>
 
-## 🔗 Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="28" /> Connect
 
 <br>
 
