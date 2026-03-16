@@ -21,8 +21,8 @@
 <br>
 
 <img src="https://skillicons.dev/icons?i=go,ts,docker,kubernetes,react,nextjs&theme=dark" alt="Tech Stack" />
-&nbsp;&nbsp;
-![Claude Code](https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+<br><br>
+<img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
 
 <br><br>
 
