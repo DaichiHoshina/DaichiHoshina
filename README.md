@@ -45,12 +45,6 @@ const daichi = {
 
 <br><br>
 
-### 〈 CONTRIBUTION · 3D 〉
-
-<img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
-
-<br><br>
-
 ### 〈 STATS 〉
 
 <img src="https://github-readme-stats.vercel.app/api?username=DaichiHoshina&show_icons=true&hide_border=true&count_private=true&card_width=480&title_color=39D0D8&text_color=8B949E&icon_color=1F6FEB&bg_color=0D1117" width="49%" alt="GitHub Stats" />
@@ -60,9 +54,9 @@ const daichi = {
 
 <br><br>
 
-### 〈 SNAKE 〉
+### 〈 CONTRIBUTION · 3D 〉
 
-<img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
 
 <br>
 
