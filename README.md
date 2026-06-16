@@ -1,82 +1,71 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,14,20,24&height=200&section=header&text=DaichiHoshina&fontSize=50&fontColor=ffffff&fontAlignY=35&animation=twinkling" width="100%" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0D1117,50:1F6FEB,100:39D0D8&height=220&section=header&text=DAICHI%20HOSHINA&fontSize=52&fontColor=E6EDF3&fontAlignY=68&rotate=13" width="100%" alt="Daichi Hoshina" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=650&lines=Software+Engineer;Backend+Architect;Go+%2F+DDD+Enthusiast;Claude+Code+Power+User;Clean+Code+Advocate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=800&color=39D0D8&center=true&vCenter=true&width=500&height=40&lines=Backend+Architect;Go+%2F+DDD+%2F+Clean+Architecture;Domain+Modeling+%E2%80%94+done+right;Systems+built+to+last" alt="roles" />
 
-<br><br>
+<p>
+  <a href="https://github.com/DaichiHoshina">
+    <img src="https://img.shields.io/badge/_GITHUB-DaichiHoshina-0D1117?style=flat-square&logo=github&logoColor=39D0D8&labelColor=0D1117&color=161B22" alt="GitHub" />
+  </a>
+  <a href="https://zenn.dev/daichi0713">
+    <img src="https://img.shields.io/badge/_ZENN-daichi0713-0D1117?style=flat-square&logo=zenn&logoColor=3EA8FF&labelColor=0D1117&color=161B22" alt="Zenn" />
+  </a>
+  <a href="https://github.com/orgs/obsidian-engine/repositories">
+    <img src="https://img.shields.io/badge/_ORG-obsidian--engine-0D1117?style=flat-square&logo=github&logoColor=39D0D8&labelColor=0D1117&color=161B22" alt="Organization" />
+  </a>
+</p>
 
-### Software engineer focused on simplicity, clarity, and long-term maintainability.
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-DaichiHoshina-181717?style=for-the-badge&logo=github)](https://github.com/DaichiHoshina)
-&nbsp;&nbsp;
-[![Zenn](https://img.shields.io/badge/Zenn-daichi0713-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white)](https://zenn.dev/daichi0713)
-
-<br><br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tech Stack" width="28" /> Tech Stack
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=go,ts,docker,kubernetes,react,nextjs&theme=dark" alt="Tech Stack" />
-<br><br>
-<img src="https://img.shields.io/badge/Claude_Code-191919?style=for-the-badge&amp;logo=anthropic&amp;logoColor=white" alt="Claude Code" />
-
-<br><br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="GitHub Stats" width="28" /> GitHub Stats
+</div>
 
 <br>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=DaichiHoshina&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br><br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Activity" width="28" /> Activity Graph
+```ts
+const daichi = {
+  role:    "Backend Architect",
+  focus:   ["domain modeling", "API design", "system design"],
+  stack:   ["Go", "TypeScript", "Kubernetes"],
+  values:  "simplicity · clarity · long-term maintainability",
+  writing: "zenn.dev/daichi0713",
+} as const;
+```
 
 <br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaichiHoshina&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
+<div align="center">
+
+### 〈 STACK 〉
+
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
 
 <br><br>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" /> Contribution Snake
+### 〈 CONTRIBUTION · 3D 〉
+
+<img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-night-rainbow.svg" width="100%" alt="3D Contribution Calendar" />
+
+<br><br>
+
+### 〈 STATS 〉
+
+<img src="https://github-readme-stats.vercel.app/api?username=DaichiHoshina&show_icons=true&hide_border=true&count_private=true&card_width=480&title_color=39D0D8&text_color=8B949E&icon_color=1F6FEB&bg_color=0D1117" width="49%" alt="GitHub Stats" />
+<img src="https://streak-stats.demolab.com/?user=DaichiHoshina&hide_border=true&background=0D1117&stroke=39D0D8&ring=1F6FEB&fire=39D0D8&currStreakLabel=39D0D8&sideLabels=8B949E&dates=8B949E&currStreakNum=E6EDF3&sideNums=E6EDF3" width="49%" alt="Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaichiHoshina&layout=compact&hide_border=true&card_width=480&title_color=39D0D8&text_color=8B949E&bg_color=0D1117&langs_count=8" width="49%" alt="Top Languages" />
+
+<br><br>
+
+### 〈 SNAKE 〉
+
+<img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
 
 <br>
 
-<img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%" />
-
-<br><br>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Connect" width="28" /> Connect
-
-<br>
-
-<a href="https://github.com/orgs/obsidian-engine/repositories">
-  <img src="https://img.shields.io/badge/Organization-obsidian--engine-181717?style=for-the-badge&logo=github" alt="Organization" />
-</a>
-&nbsp;&nbsp;
-<a href="https://zenn.dev/daichi0713">
-  <img src="https://img.shields.io/badge/Writing-Zenn-3EA8FF?style=for-the-badge&logo=zenn&logoColor=white" alt="Zenn" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/DaichiHoshina?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-GitHub-181717?style=for-the-badge&logo=github" alt="Repositories" />
-</a>
-
-<br><br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,14,20,24&height=120&section=footer" width="100%" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:39D0D8,50:1F6FEB,100:0D1117&height=120&section=footer&rotate=13" width="100%" alt="footer" />
 
 </div>
