@@ -8,21 +8,9 @@
   </samp>
 </p>
 
-<img src="./assets/header.svg" width="100%" alt="Daichi Hoshina" />
+<img src="./assets/header.svg" width="100%" alt="daidai" />
 
-```bash
-$ npm install daichihoshina
-```
-
-```js
-console.log(require('daichihoshina'));
-```
-
-連絡先が出てきます。ただし publish していないので、実際には出てきません。
-
----
-
-Hi, I'm Daichi 👋
+Hi, I'm daidai 👋
 
 Go と TypeScript を使っています。
 
@@ -67,11 +55,11 @@ Go の学習ガイド。並行処理と性能測定まで。
 </td>
 <td width="50%" valign="top">
 
-**[zenn](https://github.com/DaichiHoshina/zenn)**
+**[claude-code-config](https://github.com/DaichiHoshina/claude-code-config)**
 
-Zenn 記事のソース。
+Claude Code の設定一式。command / skill / hook をまとめたもの。
 
-`TypeScript`
+`Shell` `Markdown`
 
 </td>
 </tr>
@@ -81,10 +69,10 @@ Zenn 記事のソース。
 
 | 公開日 | タイトル |
 |---|---|
-| 2026-03-17 | [【Claude Code】効率化コマンド作成術](https://zenn.dev/daichi0713) |
-| 2023-07-05 | [負荷ツール vegeta を使って multipart/form-data で画像を送る方法](https://zenn.dev/daichi0713) |
-| 2023-04-25 | [エンジニア初心者を脱するためのTips](https://zenn.dev/daichi0713) |
-| 2023-04-07 | [レビュワーになって分かったこと](https://zenn.dev/daichi0713) |
+| 2026-03-17 | [【Claude Code】効率化コマンド作成術](https://zenn.dev/daichi0713/articles/claude-code-ai-tools-config) |
+| 2023-07-05 | [負荷ツール vegeta を使って multipart/form-data で画像を送る方法](https://zenn.dev/daichi0713/articles/562c7400c7f7f5) |
+| 2023-04-25 | [エンジニア初心者を脱するためのTips](https://zenn.dev/daichi0713/articles/40660b4fb6994e) |
+| 2023-04-07 | [レビュワーになって分かったこと](https://zenn.dev/daichi0713/articles/2d5206b18c0c8a) |
 
 ### 道具
 
