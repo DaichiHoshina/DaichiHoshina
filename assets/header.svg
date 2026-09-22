@@ -5,8 +5,8 @@
       <stop offset="100%" stop-color="#39D0D8"/>
     </linearGradient>
   </defs>
-  <rect width="1000" height="160" fill="#0D1117"/>
+  <rect width="1000" height="160" fill="#ffffff"/>
   <rect x="72" y="56" width="3" height="48" rx="1.5" fill="url(#accent)"/>
   <text x="100" y="94" font-family="ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace"
-        font-size="38" font-weight="700" letter-spacing="5" fill="#E6EDF3">DAIDAI</text>
+        font-size="38" font-weight="700" letter-spacing="5" fill="#1F2328">DAIDAI</text>
 </svg>
