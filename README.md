@@ -14,56 +14,17 @@ Hi, I'm daidai 👋
 
 Go と TypeScript を使っています。
 
-- 🔭 公開しているもの: [dev-tools](https://github.com/DaichiHoshina/dev-tools) の Kubernetes デプロイ CLI と GitLab MR 検索
-- 🌱 まとめているもの: [golang-practice](https://github.com/DaichiHoshina/golang-practice) に Go の並行処理と性能測定
+- 🔭 公開しているもの: [claude-code-config](https://github.com/DaichiHoshina/claude-code-config) の command / skill / hook
 - 👯 org: [obsidian-engine](https://github.com/orgs/obsidian-engine/repositories)
-- 💬 repo の題材: Kubernetes デプロイ / GitLab MR 運用 / 雀魂 / OBS
 - 📫 記事: [Zenn](https://zenn.dev/daichi0713)
 
 ### 公開しているもの
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**[dev-tools](https://github.com/DaichiHoshina/dev-tools)**
-
-Kubernetes のデプロイ CLI、GitLab の MR 検索、SQL クライアントをまとめたツール群。
-
-`TypeScript` `Shell` `Go`
-
-</td>
-<td width="50%" valign="top">
-
-**[mahjongsoul-data-overlay](https://github.com/DaichiHoshina/mahjongsoul-data-overlay)**
-
-雀魂の段位戦ポイントを OBS に表示する overlay。
-
-`JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**[golang-practice](https://github.com/DaichiHoshina/golang-practice)**
-
-Go の学習ガイド。並行処理と性能測定まで。
-
-`TypeScript`
-
-</td>
-<td width="50%" valign="top">
 
 **[claude-code-config](https://github.com/DaichiHoshina/claude-code-config)**
 
 Claude Code の設定一式。command / skill / hook をまとめたもの。
 
 `Shell` `Markdown`
-
-</td>
-</tr>
-</table>
 
 ### 記事
 
