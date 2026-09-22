@@ -3,8 +3,7 @@
     <a href="https://zenn.dev/daichi0713">blog</a> .
     <a href="https://github.com/DaichiHoshina?tab=repositories">projects</a> .
     <a href="https://github.com/orgs/obsidian-engine/repositories">org</a> .
-    <a href="#公開しているもの">repos</a> .
-    <a href="#記事">posts</a>
+    <a href="#公開しているもの">repos</a>
   </samp>
 </p>
 
@@ -25,15 +24,6 @@ Go と TypeScript を使っています。
 Claude Code の設定一式。command / skill / hook をまとめたもの。
 
 `Shell` `Markdown`
-
-### 記事
-
-| 公開日 | タイトル |
-|---|---|
-| 2026-03-17 | [【Claude Code】効率化コマンド作成術](https://zenn.dev/daichi0713/articles/claude-code-ai-tools-config) |
-| 2023-07-05 | [負荷ツール vegeta を使って multipart/form-data で画像を送る方法](https://zenn.dev/daichi0713/articles/562c7400c7f7f5) |
-| 2023-04-25 | [エンジニア初心者を脱するためのTips](https://zenn.dev/daichi0713/articles/40660b4fb6994e) |
-| 2023-04-07 | [レビュワーになって分かったこと](https://zenn.dev/daichi0713/articles/2d5206b18c0c8a) |
 
 ### 道具
 
