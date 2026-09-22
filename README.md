@@ -41,6 +41,10 @@ Claude Code の設定一式。command / skill / hook をまとめたもの。
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
 
+### 活動
+
+<img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-green.svg" width="100%" alt="contribution calendar" />
+
 <br>
 
 <p align="center">
