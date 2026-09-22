@@ -11,9 +11,13 @@
 
 Hi, I'm daidai 👋
 
-Go と TypeScript を使っています。
+バックエンドの開発が中心で、Go と TypeScript を使っています。
+設計をシンプルに保ち、半年後に読み返しても直せる code であることを大事にしています。
 
-- 🔭 公開しているもの: [claude-code-config](https://github.com/DaichiHoshina/claude-code-config) の command / skill / hook
+最近は Claude Code を日々の開発へ組み込むことに時間を使っています。
+計画から実装、レビュー、push までを 1 つの流れとして扱えないかを試していて、
+その設定一式を公開しています。
+
 - 👯 org: [obsidian-engine](https://github.com/orgs/obsidian-engine/repositories)
 - 📫 記事: [Zenn](https://zenn.dev/daichi0713)
 
@@ -21,7 +25,11 @@ Go と TypeScript を使っています。
 
 **[claude-code-config](https://github.com/DaichiHoshina/claude-code-config)**
 
-Claude Code の設定一式。command / skill / hook をまとめたもの。
+Claude Code の設定一式。command 48 本、skill 25 本、agent 11 本、hook 37 本を
+中心に、12 dir / 407 file で構成しています。
+
+設定の説明を毎回やりとりせずに済むよう公開しているもので、読んで参考にするだけでも、
+必要な部分を自分の Claude Code の設定へ copy しても使えます。
 
 `Shell` `Markdown`
 
