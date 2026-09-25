@@ -25,12 +25,12 @@ jobs:
         run: |
           find profile-3d-contrib -name '*.svg' -type f -exec sed -i -e '0,/fill="#ffffff"/s//fill="#F4F1EA" fill-opacity="0.72"/' -e 's|</style>|</style><defs><clipPath id="rounded-frame"><rect width="1280" height="850" rx="48"/></clipPath></defs><g clip-path="url(#rounded-frame)">|' -e 's|</svg>|</g></svg>|' {} +
 
-      - name: Render animated glass GIF
+      - name: Render washi PNG
         run: |
           sudo apt-get update
           sudo apt-get install -y ffmpeg librsvg2-bin
           rsvg-convert profile-3d-contrib/profile-green.svg -o /tmp/profile-green.png
-          bash scripts/render-glass-gif.sh /tmp/profile-green.png profile-3d-contrib/profile-green-washi.gif 960
+          bash scripts/render-washi.sh /tmp/profile-green.png profile-3d-contrib/profile-green-washi.png 960
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
