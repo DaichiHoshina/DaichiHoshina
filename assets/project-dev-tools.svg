@@ -1,7 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 220" role="img" aria-labelledby="title desc">
   <title id="title">dev-tools</title><desc id="desc">Developer tools for deployment, release and daily operations.</desc>
-  <rect width="1200" height="220" fill="#F4F1EA"/>
-  <line x1="72" y1="0" x2="1128" y2="0" stroke="#C9C3B8"/>
+  <defs>
+    <linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FBF8F1" stop-opacity="0.9"/><stop offset="1" stop-color="#E9E3D8" stop-opacity="0.68"/></linearGradient>
+    <filter id="shadow" x="-10%" y="-20%" width="120%" height="150%"><feDropShadow dx="0" dy="8" stdDeviation="9" flood-color="#302D28" flood-opacity="0.12"/></filter>
+  </defs>
+  <rect x="18" y="10" width="1164" height="192" rx="38" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.76" filter="url(#shadow)"/>
+  <path d="M58 27H1085C1127 27 1154 48 1163 76" fill="none" stroke="#FFFFFF" stroke-opacity="0.72" stroke-width="2"/>
   <text x="72" y="70" fill="#8C1D18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" letter-spacing="3">SELECTED WORK 02</text>
   <text x="72" y="126" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="38" font-weight="620">dev-tools</text>
   <text x="72" y="174" fill="#5B5852" font-family="-apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="21">デプロイ・リリース・日々の運用を支える developer tools</text>

@@ -1,7 +1,21 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
   <title id="title">daidai — Backend Engineer</title>
   <desc id="desc">Go and TypeScript. Simple systems, clear boundaries, maintainable code.</desc>
-  <rect width="770" height="400" fill="#F4F1EA" fill-opacity="0.86"/>
+  <defs>
+    <linearGradient id="liquid" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F8F5EE" stop-opacity="0.94"/>
+      <stop offset="0.76" stop-color="#F4F1EA" stop-opacity="0.82"/>
+      <stop offset="1" stop-color="#F4F1EA" stop-opacity="0.28"/>
+    </linearGradient>
+    <filter id="liquid-shadow" x="-10%" y="-10%" width="130%" height="130%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/>
+      <feOffset dx="7" dy="0" result="offset"/>
+      <feColorMatrix in="offset" type="matrix" values="0 0 0 0 0.15 0 0 0 0 0.14 0 0 0 0 0.12 0 0 0 0.16 0"/>
+      <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <path d="M0 0H674C724 28 700 82 742 119C786 158 716 208 753 252C789 295 735 352 688 400H0Z" fill="url(#liquid)" filter="url(#liquid-shadow)"/>
+  <path d="M673 12C710 42 693 83 731 121C766 156 711 207 742 251" fill="none" stroke="#FFFFFF" stroke-opacity="0.62" stroke-width="2"/>
   <rect x="62" y="54" width="7" height="94" fill="#8C1D18"/>
   <text x="94" y="81" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" letter-spacing="4">HOSHINA DAICHI</text>
   <text x="91" y="139" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="51" font-weight="650" letter-spacing="-1.5">Backend Engineer.</text>
