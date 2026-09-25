@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.png" width="100%" alt="Warm ivory editorial still life with a deep red block" />
-</p>
-
-<p align="center">
-  <img src="./assets/profile.svg" width="100%" alt="daidai — Backend Engineer. Go and TypeScript. Simple systems, clear boundaries, maintainable code." />
+  <img src="./assets/hero-profile.png" width="100%" alt="daidai — Backend Engineer. Go and TypeScript. Simple systems, clear boundaries, maintainable code." />
 </p>
 
 <a href="https://github.com/DaichiHoshina/claude-code-config">

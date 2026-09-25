@@ -1,15 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 520" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 400" role="img" aria-labelledby="title desc">
   <title id="title">daidai — Backend Engineer</title>
   <desc id="desc">Go and TypeScript. Simple systems, clear boundaries, maintainable code.</desc>
-  <rect width="1200" height="520" fill="#F4F1EA"/>
-  <rect x="72" y="70" width="10" height="110" fill="#8C1D18"/>
-  <text x="112" y="112" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24" letter-spacing="5">HOSHINA DAICHI</text>
-  <text x="108" y="178" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="66" font-weight="650" letter-spacing="-2">Backend Engineer.</text>
-  <text x="108" y="246" fill="#5B5852" font-family="-apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="25">複雑さをほどき、長く直せる仕組みをつくる。</text>
-  <line x1="108" y1="302" x2="1092" y2="302" stroke="#D4CFC5"/>
-  <text x="108" y="355" fill="#8C1D18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="2">01 / BUILD</text>
-  <text x="108" y="395" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24">Go · TypeScript · Kubernetes</text>
-  <text x="620" y="355" fill="#8C1D18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="17" letter-spacing="2">02 / THINK</text>
-  <text x="620" y="395" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="24">Domain · API · System Design</text>
-  <text x="108" y="466" fill="#77736C" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="17" letter-spacing="1">SIMPLE SYSTEMS  /  CLEAR BOUNDARIES  /  MAINTAINABLE CODE</text>
+  <rect width="770" height="400" fill="#F4F1EA" fill-opacity="0.86"/>
+  <rect x="62" y="54" width="7" height="94" fill="#8C1D18"/>
+  <text x="94" y="81" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" letter-spacing="4">HOSHINA DAICHI</text>
+  <text x="91" y="139" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="51" font-weight="650" letter-spacing="-1.5">Backend Engineer.</text>
+  <text x="91" y="181" fill="#5B5852" font-family="-apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="20">複雑さをほどき、長く直せる仕組みをつくる。</text>
+  <line x1="91" y1="220" x2="696" y2="220" stroke="#BDB6AA"/>
+  <text x="91" y="261" fill="#8C1D18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">01 / BUILD</text>
+  <text x="91" y="292" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">Go · TypeScript · Kubernetes</text>
+  <text x="402" y="261" fill="#8C1D18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">02 / THINK</text>
+  <text x="402" y="292" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18">Domain · API · System Design</text>
+  <text x="91" y="352" fill="#6F6B64" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" letter-spacing="0.8">SIMPLE SYSTEMS  /  CLEAR BOUNDARIES  /  MAINTAINABLE CODE</text>
 </svg>
