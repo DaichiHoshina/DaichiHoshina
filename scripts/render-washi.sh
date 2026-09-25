@@ -21,7 +21,7 @@ else
 fi
 
 # 紙の地色。乗算で明るい部分ほど沈み、濃い文字はほぼ変わらない
-paper_tint=#ECE7DE
+paper_tint=#F5F2EC
 # テクスチャ元画像はほぼ白で濃淡が薄いため、ぼかしとの差分で繊維だけを取り出して増幅する
 fiber_gain=4
 fiber_opacity=0.9
