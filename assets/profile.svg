@@ -13,12 +13,23 @@
       <feColorMatrix in="offset" type="matrix" values="0 0 0 0 0.15 0 0 0 0 0.14 0 0 0 0 0.12 0 0 0 0.16 0"/>
       <feMerge><feMergeNode/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <linearGradient id="liquid-fill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#5E5A53"/><stop offset="0.55" stop-color="#23211E"/><stop offset="1" stop-color="#0F0E0D"/></linearGradient>
+    <filter id="liquid-text" x="-5%" y="-40%" width="110%" height="190%" color-interpolation-filters="sRGB">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2.2" result="bump"/>
+      <feSpecularLighting in="bump" surfaceScale="5" specularConstant="1.5" specularExponent="30" lighting-color="#FFFFFF" result="spec"><feDistantLight azimuth="250" elevation="48"/></feSpecularLighting>
+      <feComposite in="spec" in2="SourceAlpha" operator="in" result="gloss"/>
+      <feComposite in="SourceGraphic" in2="gloss" operator="arithmetic" k2="1" k3="0.85" result="lit"/>
+      <feGaussianBlur in="SourceAlpha" stdDeviation="2.4" result="shadow-blur"/>
+      <feOffset in="shadow-blur" dy="3" result="shadow-offset"/>
+      <feColorMatrix in="shadow-offset" type="matrix" values="0 0 0 0 0.12 0 0 0 0 0.11 0 0 0 0 0.09 0 0 0 0.35 0" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="lit"/></feMerge>
+    </filter>
   </defs>
   <path d="M0 0H674C724 28 700 82 742 119C786 158 716 208 753 252C789 295 735 352 688 400H0Z" fill="url(#liquid)" filter="url(#liquid-shadow)"/>
   <path d="M673 12C710 42 693 83 731 121C766 156 711 207 742 251" fill="none" stroke="#FFFFFF" stroke-opacity="0.62" stroke-width="2"/>
   <rect x="62" y="54" width="7" height="94" fill="#8C1D18"/>
   <text x="94" y="81" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" letter-spacing="4">HOSHINA DAICHI</text>
-  <text x="91" y="139" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="51" font-weight="650" letter-spacing="-1.5">Backend Engineer.</text>
+  <text class="liquid" x="91" y="139" fill="url(#liquid-fill)" filter="url(#liquid-text)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="51" font-weight="650" letter-spacing="-1.5">Backend Engineer.</text>
   <text x="91" y="181" fill="#5B5852" font-family="-apple-system, BlinkMacSystemFont, 'Hiragino Sans', 'Yu Gothic', sans-serif" font-size="20">複雑さをほどき、長く直せる仕組みをつくる。</text>
   <line x1="91" y1="220" x2="696" y2="220" stroke="#BDB6AA"/>
   <text x="91" y="261" fill="#8C1D18" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="2">01 / BUILD</text>
