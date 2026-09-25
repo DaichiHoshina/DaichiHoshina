@@ -1,6 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 260 64" role="img" aria-label="Read on Zenn">
-  <defs><linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity="0.88"/><stop offset="1" stop-color="#E9E3D8" stop-opacity="0.58"/></linearGradient></defs>
+  <defs><linearGradient id="glass" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFFFFF" stop-opacity="0.88"/><stop offset="1" stop-color="#E9E3D8" stop-opacity="0.58"/></linearGradient>
+    <linearGradient id="liquid-fill" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#56524B"/><stop offset="0.42" stop-color="#26241F"/><stop offset="1" stop-color="#141311"/></linearGradient>
+    <filter id="liquid-text" x="-5%" y="-30%" width="115%" height="200%" color-interpolation-filters="sRGB">
+      <feOffset in="SourceAlpha" dx="1.25" dy="2.5" result="o5"/><feFlood flood-color="#3A3631"/><feComposite in2="o5" operator="in" result="s5"/><feOffset in="SourceAlpha" dx="1.0" dy="2.0" result="o4"/><feFlood flood-color="#524E47"/><feComposite in2="o4" operator="in" result="s4"/><feOffset in="SourceAlpha" dx="0.75" dy="1.5" result="o3"/><feFlood flood-color="#6A655D"/><feComposite in2="o3" operator="in" result="s3"/><feOffset in="SourceAlpha" dx="0.5" dy="1.0" result="o2"/><feFlood flood-color="#827C73"/><feComposite in2="o2" operator="in" result="s2"/><feOffset in="SourceAlpha" dx="0.25" dy="0.5" result="o1"/><feFlood flood-color="#9A9489"/><feComposite in2="o1" operator="in" result="s1"/>
+      <feMerge result="side-body"><feMergeNode in="s5"/><feMergeNode in="s4"/><feMergeNode in="s3"/><feMergeNode in="s2"/><feMergeNode in="s1"/></feMerge>
+      <feComposite in="o5" in2="o3" operator="out" result="edge-area"/>
+      <feFlood flood-color="#FFFFFF" flood-opacity="0.35"/><feComposite in2="edge-area" operator="in" result="edge"/>
+      <feMerge result="side"><feMergeNode in="side-body"/><feMergeNode in="edge"/></feMerge>
+      <feGaussianBlur in="side" stdDeviation="1.5"/><feOffset dy="2.5"/><feColorMatrix type="matrix" values="0 0 0 0 0.12 0 0 0 0 0.11 0 0 0 0 0.09 0 0 0 0.3 0" result="shadow"/>
+      <feOffset in="SourceAlpha" dy="0.8" result="down"/>
+      <feComposite in="SourceAlpha" in2="down" operator="out" result="rim-area"/>
+      <feFlood flood-color="#FFFFFF" flood-opacity="0.6"/><feComposite in2="rim-area" operator="in" result="rim"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="side"/><feMergeNode in="SourceGraphic"/><feMergeNode in="rim"/></feMerge>
+    </filter>
+  </defs>
   <rect x="2" y="2" width="256" height="60" rx="18" fill="url(#glass)" stroke="#FFFFFF" stroke-opacity="0.82"/>
   <path d="M28 10H215C232 10 244 18 250 29" fill="none" stroke="#FFFFFF" stroke-opacity="0.72"/>
-  <text x="130" y="39" text-anchor="middle" fill="#242320" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" letter-spacing="2">READ ON ZENN ↗</text>
+  <text class="liquid" x="130" y="39" text-anchor="middle" fill="url(#liquid-fill)" filter="url(#liquid-text)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600" letter-spacing="2">READ ON ZENN ↗</text>
 </svg>
