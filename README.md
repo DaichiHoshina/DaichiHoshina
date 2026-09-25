@@ -1,52 +1,29 @@
 <p align="center">
-  <samp>
-    <a href="https://zenn.dev/daichi0713">blog</a> .
-    <a href="https://github.com/DaichiHoshina?tab=repositories">projects</a> .
-    <a href="https://github.com/orgs/obsidian-engine/repositories">org</a> .
-    <a href="#公開しているもの">repos</a>
-  </samp>
+  <img src="./assets/hero.png" width="100%" alt="Warm ivory editorial still life with a deep red block" />
 </p>
 
-<img src="./assets/header.svg" width="100%" alt="daidai" />
+<p align="center">
+  <img src="./assets/profile.svg" width="100%" alt="daidai — Backend Engineer. Go and TypeScript. Simple systems, clear boundaries, maintainable code." />
+</p>
 
-Hi, I'm daidai 👋
+<a href="https://github.com/DaichiHoshina/claude-code-config">
+  <img src="./assets/project-claude-code-config.svg" width="100%" alt="claude-code-config — Claude Code workflows, skills, agents and hooks" />
+</a>
 
-バックエンドの開発が中心で、Go と TypeScript を使っています。
-設計をシンプルに保ち、半年後に読み返しても直せる code であることを大事にしています。
+<a href="https://github.com/DaichiHoshina/dev-tools">
+  <img src="./assets/project-dev-tools.svg" width="100%" alt="dev-tools — Developer tools for deployment, release and daily operations" />
+</a>
 
-最近は Claude Code を日々の開発へ組み込むことに時間を使っています。
-計画から実装、レビュー、push までを 1 つの流れとして扱えないかを試していて、
-その設定一式を公開しています。
-
-- 👯 org: [obsidian-engine](https://github.com/orgs/obsidian-engine/repositories)
-- 📫 記事: [Zenn](https://zenn.dev/daichi0713)
-
-### 公開しているもの
-
-**[claude-code-config](https://github.com/DaichiHoshina/claude-code-config)**
-
-Claude Code の設定一式。command 48 本、skill 25 本、agent 11 本、hook 37 本を
-中心に、12 dir / 407 file で構成しています。
-
-設定の説明を毎回やりとりせずに済むよう公開しているもので、読んで参考にするだけでも、
-必要な部分を自分の Claude Code の設定へ copy しても使えます。
-
-`Shell` `Markdown`
-
-### 道具
-
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Claude_Code-D97757?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
-
-### 活動
-
-<img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-green.svg" width="100%" alt="contribution calendar" />
-
-<br>
+<a href="https://github.com/DaichiHoshina/golang-practice">
+  <img src="./assets/project-golang-practice.svg" width="100%" alt="golang-practice — A practical learning guide for backend engineers" />
+</a>
 
 <p align="center">
-  <samp>
-    <a href="https://zenn.dev/daichi0713">もっと読む</a>
-  </samp>
+  <img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-green.svg" width="100%" alt="GitHub contribution calendar" />
+</p>
+
+<p align="center">
+  <a href="https://zenn.dev/daichi0713"><img src="./assets/link-zenn.svg" height="52" alt="Read articles on Zenn" /></a>
+  &nbsp;
+  <a href="https://github.com/DaichiHoshina?tab=repositories"><img src="./assets/link-projects.svg" height="52" alt="View all projects" /></a>
 </p>
