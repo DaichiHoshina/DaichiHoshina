@@ -21,9 +21,9 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Apply translucent background
+      - name: Apply translucent rounded frame
         run: |
-          find profile-3d-contrib -name '*.svg' -type f -exec sed -i '0,/fill="#ffffff"/s//fill="#F4F1EA" fill-opacity="0.72"/' {} +
+          find profile-3d-contrib -name '*.svg' -type f -exec sed -i -e '0,/fill="#ffffff"/s//fill="#F4F1EA" fill-opacity="0.72"/' -e 's|</style>|</style><defs><clipPath id="rounded-frame"><rect width="1280" height="850" rx="48"/></clipPath></defs><g clip-path="url(#rounded-frame)">|' -e 's|</svg>|</g></svg>|' {} +
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
