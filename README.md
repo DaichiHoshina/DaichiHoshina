@@ -1,25 +1,25 @@
 <p align="center">
-  <img src="./assets/hero-profile.gif" width="100%" alt="daidai — Backend Engineer. Go and TypeScript. Simple systems, clear boundaries, maintainable code." />
+  <img src="./assets/hero-profile-breathing.gif" width="100%" alt="daidai — Backend Engineer. Go and TypeScript. Simple systems, clear boundaries, maintainable code." />
 </p>
 
 <a href="https://github.com/DaichiHoshina/claude-code-config">
-  <img src="./assets/project-claude-code-config.gif" width="100%" alt="claude-code-config — Claude Code workflows, skills, agents and hooks" />
+  <img src="./assets/project-claude-code-config-breathing.gif" width="100%" alt="claude-code-config — Claude Code workflows, skills, agents and hooks" />
 </a>
 
 <a href="https://github.com/DaichiHoshina/dev-tools">
-  <img src="./assets/project-dev-tools.gif" width="100%" alt="dev-tools — Developer tools for deployment, release and daily operations" />
+  <img src="./assets/project-dev-tools-breathing.gif" width="100%" alt="dev-tools — Developer tools for deployment, release and daily operations" />
 </a>
 
 <a href="https://github.com/DaichiHoshina/golang-practice">
-  <img src="./assets/project-golang-practice.gif" width="100%" alt="golang-practice — A practical learning guide for backend engineers" />
+  <img src="./assets/project-golang-practice-breathing.gif" width="100%" alt="golang-practice — A practical learning guide for backend engineers" />
 </a>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-green.gif" width="100%" alt="GitHub contribution calendar" />
+  <img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-green-breathing.gif" width="100%" alt="GitHub contribution calendar" />
 </p>
 
 <p align="center">
-  <a href="https://zenn.dev/daichi0713"><img src="./assets/link-zenn.gif" height="52" alt="Read articles on Zenn" /></a>
+  <a href="https://zenn.dev/daichi0713"><img src="./assets/link-zenn-breathing.gif" height="52" alt="Read articles on Zenn" /></a>
   &nbsp;
-  <a href="https://github.com/DaichiHoshina?tab=repositories"><img src="./assets/link-projects.gif" height="52" alt="View all projects" /></a>
+  <a href="https://github.com/DaichiHoshina?tab=repositories"><img src="./assets/link-projects-breathing.gif" height="52" alt="View all projects" /></a>
 </p>
