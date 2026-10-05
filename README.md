@@ -15,14 +15,6 @@ Claude Code のスキル、plugin、設定、hook を作って公開していま
 
 ## その他のプロジェクト
 
-<a href="https://github.com/DaichiHoshina/dev-tools">
-  <img src="./assets/project-dev-tools-washi.png" width="100%" alt="dev-tools — Developer tools for deployment, release and daily operations" />
-</a>
-
-<a href="https://github.com/DaichiHoshina/golang-practice">
-  <img src="./assets/project-golang-practice-washi.png" width="100%" alt="golang-practice — A practical learning guide for backend engineers" />
-</a>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/DaichiHoshina/DaichiHoshina/profile-3d/profile-green-washi.png" width="100%" alt="GitHub contribution calendar" />
 </p>
